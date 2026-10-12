@@ -1,0 +1,12 @@
+## Pages
+- [Blog - Inicia Seu Capital](/blog): Artigos completos sobre economia, finanças pessoais e carreira para transformar sua vida financeira.
+- [Contato - Inicia Seu Capital](/contato): Entre em contato conosco. Estamos aqui para ajudar você em sua jornada financeira.
+- [Dicas de Carreira - Inicia Seu Capital](/carreira): Orientações profissionais para impulsionar sua carreira, conseguir promoções e aumentar sua renda.
+- [Economia - Inicia Seu Capital](/investimentos): Análises econômicas, notícias sobre inflação, PIB e tendências de mercado para 2026.
+- [Economia - Inicia Seu Capital](/savingscategory): Dicas práticas para economizar dinheiro e construir reservas financeiras.
+- [Ferramentas Financeiras - Inicia Seu Capital](/ferramentas): Calculadoras e ferramentas gratuitas para ajudar você a gerenciar suas finanças pessoais.
+- [Finanças Pessoais - Inicia Seu Capital](/blog/financas): Dicas práticas para economizar, sair das dívidas e investir melhor seu dinheiro.
+- [Inicia Seu Capital - Domine suas Finanças Pessoais](/): Portal completo sobre educação financeira, economia e carreira. Aprenda a investir e poupar.
+- [Investimentos - Inicia Seu Capital](/investmentscategory): Aprenda tudo sobre investimentos e como fazer seu dinheiro trabalhar para você.
+- [Página não encontrada - Inicia Seu Capital](/*): No description available
+- [Untitled Page](/artigos/:slug): No description available
